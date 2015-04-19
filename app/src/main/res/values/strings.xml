@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TestApp1</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_message">Enter a Message</string>
+    <string name="button_send">It\'s a Thing!</string>
+    <string name="light1on">Light 1 On</string>
+    <string name="light1off">Light 1 Off</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="startBT">Enable Bluetooth</string>
+    <string name="discoverBT">Start Bluetooth Discovery</string>
+    <string name="title_activity_display_message">MyMessage</string>
+    <string name="stuff">Stuff goes here</string>
+    <string name="DisableBT">Disable Bluetooth</string>
+    <string name="FindDevices">Discover Devices</string>
+    <string name="ListDevices">List Paired Devices</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="reconnect">Reconnect</string>
+</resources>
